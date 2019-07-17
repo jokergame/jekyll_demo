@@ -32,7 +32,10 @@ github:
   username: jokergame
 swiftype:
   searchId: iXZyPokVfxFaBTvi64Y6
-
+gitment:
+    repo: jekyll_demo
+    client_id: fc83fb4cad706f83e976
+    client_secret: 43f15a1a1c2a418609b7246a115bf0eb0e7bf7e9
 
 url: "https://jokergame.github.io/jekyll_demo/"
 imgrepo: "https://bit-ranger.github.io/blog/static/img"
