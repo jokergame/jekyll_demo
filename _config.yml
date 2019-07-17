@@ -33,13 +33,7 @@ github:
 swiftype:
   searchId: iXZyPokVfxFaBTvi64Y6
 gitment:
-    enable: true
-    mint: true
-    count: true
-    lazy: false
-    cleanly: false
-    language: 
-    repo: jokergame
+    repo: jokergame.github.io/jekyll_demo/
     client_id: fc83fb4cad706f83e976
     client_secret: 43f15a1a1c2a418609b7246a115bf0eb0e7bf7e9
 
